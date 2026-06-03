@@ -68,7 +68,7 @@ The dataset underwent several preprocessing steps:
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Conclusion
 
